@@ -44,11 +44,11 @@ This will give you access to the code on your **local machine**.
 
 ## ➤ Description <a name = "description"></a>
 
-## ➤ Usage <a name = "usage"></a>
+Insert description here!
 
-## ➤ Visuals <a name = "visuals"></a>
+## ➤ Demo <a name = "demo"></a>
 
-## ➤ Links <a name = "links"></a>
+Insert demo here!
   
 ## ➤ Author <a name = "author"></a>
 
@@ -62,9 +62,27 @@ This will give you access to the code on your **local machine**.
 
 To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) file.
 
+## ➤ Learnings <a name = "learnings"></a>
+
+List of what you learned in this project.
+
 ## ➤ Project status <a name = "project-status"></a>
 
-This repository is a study project, therefore, it will not always be maintained 👻.
+Currently the project is constantly being updated! 👾
+
+## ➤ Donations <a name = "donations"></a>
+
+If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
+
+<p align="center">
+  <a href="https://www.blockchain.com/pt/btc/address/bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5">
+    <img alt="BTC Address" src="https://img.shields.io/badge/BTC%20Address-black?style=for-the-badge&logo=bitcoin&logoColor=white">
+  </a>
+
+  <a href="https://live.blockcypher.com/ltc/address/ltc1qwzrxmlmzzx68k2dnrcrplc4thadm75khzrznjw/">
+    <img alt="LTC Address" src="https://img.shields.io/badge/LTC%20Address-black?style=for-the-badge&logo=litecoin&logoColor=white">
+  </a>
+</p>
 
 ## ➤ Show your support <a name = "show-your-support"></a>
 
@@ -76,6 +94,6 @@ Give me a ⭐️ if this project helped you!
   <img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
 </p>
 
-Made with 💜 by [me](https://github.com/lpmatos) :wave: inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+Made with 💜 by [me](https://github.com/lpmatos) 👋 inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
 </div>
